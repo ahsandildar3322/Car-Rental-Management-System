@@ -124,3 +124,8 @@ Final Testing Checklist:
 - [ ] Admin can delete booking.
 - [ ] Error message appears if JSON Server is not running.
 - [ ] Layout works on mobile.
+
+# Student Information
+Name: Ahsan Dildar
+Roll No: F24BDOCS1M01035
+Project Name: Car Rental Management System
